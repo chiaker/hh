@@ -85,8 +85,8 @@ class GeminiImageParser:
 if __name__ == "__main__":
     API_KEYS = [
         "AIzaSyBEDWHjsiwkCp-wOrIkrqbaFUAXHhsSKiU",
-        "AIzaSyBqYFKJUZ5QD3jkYYuzH1vwWNpIsugkyO0",
-        "AIzaSyDb4cxkxNFGoP698OY4AlNUPLj7VmlvDVs"
+        "AIzaSyDTL_bSkpcTzJCbAnraHFECXrEH2pqhCmU",
+        "AIzaSyD2h9apYcUTsTp86BE36lbuGehsZRX3QnM"
     ]
 
     INPUT_FOLDER = "contentt"  
